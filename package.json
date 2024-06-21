@@ -5,7 +5,7 @@
   "keywords": [],
   "main": "main.js",
   "description": "test",
-  "author": "Adream",
+  "author": {"name":"Adream", "email": "2085127827@qq.com"},
   "license": "ISC",
   "homepage": "./",
   "dependencies": {
