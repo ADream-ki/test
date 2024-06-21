@@ -18,8 +18,7 @@ function createWindow() {
       slashes: true
     }))
   */
-  // 加载应用----适用于 react 项目
-//   mainWindow.loadURL("http://localhost:3000/");
+
   mainWindow.loadURL(url.format({
     pathname: path.join(__dirname, './build/index.html'),
     protocol: 'file:',
